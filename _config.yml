@@ -11,6 +11,5 @@ twitter_username: gerbyzation
 github_username:  gerbyzation
 
 # Build settings
+destination: ../gerbyzation.github.io/
 markdown: kramdown
-gems: 
-- audio_tag
