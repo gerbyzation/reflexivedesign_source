@@ -1,0 +1,141 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'javascripting' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.32
+4 verbose cache add [ 'javascripting', null ]
+5 verbose cache add name=undefined spec="javascripting" args=["javascripting",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'javascripting',
+6 verbose parsed url   path: 'javascripting',
+6 verbose parsed url   href: 'javascripting' }
+7 silly lockFile ae6d31f2-javascripting javascripting
+8 verbose lock javascripting /Users/gerbenneven/.npm/ae6d31f2-javascripting.lock
+9 silly lockFile ae6d31f2-javascripting javascripting
+10 silly lockFile ae6d31f2-javascripting javascripting
+11 verbose addNamed [ 'javascripting', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile 9ef866d8-javascripting javascripting@
+14 verbose lock javascripting@ /Users/gerbenneven/.npm/9ef866d8-javascripting.lock
+15 silly addNameRange { name: 'javascripting', range: '*', hasData: false }
+16 verbose request where is /javascripting
+17 verbose request registry https://registry.npmjs.org/
+18 verbose request id 7bd7198f04aaf70e
+19 verbose url raw /javascripting
+20 verbose url resolving [ 'https://registry.npmjs.org/', './javascripting' ]
+21 verbose url resolved https://registry.npmjs.org/javascripting
+22 verbose request where is https://registry.npmjs.org/javascripting
+23 info trying registry request attempt 1 at 20:31:45
+24 http GET https://registry.npmjs.org/javascripting
+25 http 200 https://registry.npmjs.org/javascripting
+26 silly registry.get cb [ 200,
+26 silly registry.get   { date: 'Sat, 18 Oct 2014 19:31:43 GMT',
+26 silly registry.get     server: 'CouchDB/1.5.0 (Erlang OTP/R14B04)',
+26 silly registry.get     etag: '"90JZQNM7JOTIQO0PYSOQ5YQRG"',
+26 silly registry.get     'content-type': 'application/json',
+26 silly registry.get     'cache-control': 'max-age=60',
+26 silly registry.get     'content-length': '7855',
+26 silly registry.get     'accept-ranges': 'bytes',
+26 silly registry.get     via: '1.1 varnish',
+26 silly registry.get     age: '18',
+26 silly registry.get     'x-served-by': 'cache-lcy1132-LCY',
+26 silly registry.get     'x-cache': 'HIT',
+26 silly registry.get     'x-cache-hits': '1',
+26 silly registry.get     'x-timer': 'S1413660703.456549,VS0,VE0',
+26 silly registry.get     vary: 'Accept',
+26 silly registry.get     'keep-alive': 'timeout=10, max=50',
+26 silly registry.get     connection: 'Keep-Alive' } ]
+27 silly addNameRange number 2 { name: 'javascripting', range: '*', hasData: true }
+28 silly addNameRange versions [ 'javascripting',
+28 silly addNameRange   [ '1.0.0', '1.0.1', '1.1.0', '1.1.1', '1.1.2', '1.1.3' ] ]
+29 verbose addNamed [ 'javascripting', '1.1.3' ]
+30 verbose addNamed [ '1.1.3', '1.1.3' ]
+31 silly lockFile 7b880719-javascripting-1-1-3 javascripting@1.1.3
+32 verbose lock javascripting@1.1.3 /Users/gerbenneven/.npm/7b880719-javascripting-1-1-3.lock
+33 silly lockFile e39202d6-cripting-javascripting-1-1-3-tgz https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz
+34 verbose lock https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz /Users/gerbenneven/.npm/e39202d6-cripting-javascripting-1-1-3-tgz.lock
+35 verbose addRemoteTarball [ 'https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz',
+35 verbose addRemoteTarball   'bf0d52567cf91727e17bd94ae2018bc7eeb771ec' ]
+36 info retry fetch attempt 1 at 20:31:45
+37 verbose fetch to= /var/folders/wd/04c62bl171g79wql_df_588c0000gn/T/npm-92879-NL-Za9lF/registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz
+38 http GET https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz
+39 http 200 https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz
+40 silly lockFile e39202d6-cripting-javascripting-1-1-3-tgz https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz
+41 silly lockFile e39202d6-cripting-javascripting-1-1-3-tgz https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz
+42 silly lockFile 7b880719-javascripting-1-1-3 javascripting@1.1.3
+43 silly lockFile 7b880719-javascripting-1-1-3 javascripting@1.1.3
+44 silly lockFile 9ef866d8-javascripting javascripting@
+45 silly lockFile 9ef866d8-javascripting javascripting@
+46 silly resolved [ { name: 'javascripting',
+46 silly resolved     description: 'Learn JavaScript by adventuring around in the terminal.',
+46 silly resolved     version: '1.1.3',
+46 silly resolved     repository: { url: 'git://github.com/sethvincent/javascripting.git' },
+46 silly resolved     author: { name: 'sethvincent' },
+46 silly resolved     bin: { javascripting: 'index.js' },
+46 silly resolved     preferGlobal: true,
+46 silly resolved     dependencies: { adventure: '^2.8.0', 'cli-md': '^0.1.0' },
+46 silly resolved     gitHead: '9d7da5c9266466125208fa2b2b68d7991303d4b9',
+46 silly resolved     bugs: { url: 'https://github.com/sethvincent/javascripting/issues' },
+46 silly resolved     homepage: 'https://github.com/sethvincent/javascripting',
+46 silly resolved     _id: 'javascripting@1.1.3',
+46 silly resolved     scripts: {},
+46 silly resolved     _shasum: 'bf0d52567cf91727e17bd94ae2018bc7eeb771ec',
+46 silly resolved     _from: 'javascripting@',
+46 silly resolved     _npmVersion: '2.0.2',
+46 silly resolved     _nodeVersion: '0.10.31',
+46 silly resolved     _npmUser: { name: 'sethvincent', email: 'sethvincent@gmail.com' },
+46 silly resolved     maintainers: [ [Object] ],
+46 silly resolved     dist:
+46 silly resolved      { shasum: 'bf0d52567cf91727e17bd94ae2018bc7eeb771ec',
+46 silly resolved        tarball: 'http://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz' },
+46 silly resolved     directories: {},
+46 silly resolved     _resolved: 'https://registry.npmjs.org/javascripting/-/javascripting-1.1.3.tgz' } ]
+47 info install javascripting@1.1.3 into /usr/local/lib
+48 info installOne javascripting@1.1.3
+49 verbose lib/node_modules/javascripting unbuild
+50 verbose tar unpack /Users/gerbenneven/.npm/javascripting/1.1.3/package.tgz
+51 silly lockFile 79ce8374-l-lib-node-modules-javascripting tar:///usr/local/lib/node_modules/javascripting
+52 verbose lock tar:///usr/local/lib/node_modules/javascripting /Users/gerbenneven/.npm/79ce8374-l-lib-node-modules-javascripting.lock
+53 silly lockFile 50e389f2--javascripting-1-1-3-package-tgz tar:///Users/gerbenneven/.npm/javascripting/1.1.3/package.tgz
+54 verbose lock tar:///Users/gerbenneven/.npm/javascripting/1.1.3/package.tgz /Users/gerbenneven/.npm/50e389f2--javascripting-1-1-3-package-tgz.lock
+55 silly gunzTarPerm modes [ '755', '644' ]
+56 error Error: EACCES, mkdir '/usr/local/lib/node_modules/javascripting'
+56 error  { [Error: EACCES, mkdir '/usr/local/lib/node_modules/javascripting']
+56 error   errno: 3,
+56 error   code: 'EACCES',
+56 error   path: '/usr/local/lib/node_modules/javascripting',
+56 error   fstream_type: 'Directory',
+56 error   fstream_path: '/usr/local/lib/node_modules/javascripting',
+56 error   fstream_class: 'DirWriter',
+56 error   fstream_stack:
+56 error    [ '/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23',
+56 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53',
+56 error      'Object.oncomplete (fs.js:107:15)' ] }
+57 error Please try running this command again as root/Administrator.
+58 error System Darwin 14.0.0
+59 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "javascripting"
+60 error cwd /Users/gerbenneven/Projects/gerbyzation.github.io
+61 error node -v v0.10.32
+62 error npm -v 1.4.28
+63 error path /usr/local/lib/node_modules/javascripting
+64 error fstream_path /usr/local/lib/node_modules/javascripting
+65 error fstream_type Directory
+66 error fstream_class DirWriter
+67 error code EACCES
+68 error errno 3
+69 error stack Error: EACCES, mkdir '/usr/local/lib/node_modules/javascripting'
+70 error fstream_stack /usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23
+70 error fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53
+70 error fstream_stack Object.oncomplete (fs.js:107:15)
+71 verbose exit [ 3, true ]
