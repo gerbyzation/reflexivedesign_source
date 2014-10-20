@@ -4,16 +4,31 @@ layout: default
 
 <div class="home">
 
-  <section>
+  <!-- <h1 class="page-heading">Posts</h1> -->
 
-    <h1 class="title">Gerrit Neven</h1>
-    <h6 class="subtitle">
-      <span>aka</span> gerben <span>//</span> 'G' <span>//</span> gerby
-    </h6>
-    <p>
-          
-    </p>
+	<section class="post-list">
+    {% for post in site.posts %}
+      <article>
+        <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span>
 
+        <h2>
+          <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> -->{{ post.title }}<!-- </a> -->
+        </h2>
+
+		<div class="post-content">
+			{{ post.content }}
+		</div>
+
+		<div class="tags">
+		
+			<p>Catagory: {{ post.categories }}</p>
+			{% if post.tags %}
+				<p>Tags: {{ post.tags }}</p>
+			{% endif %}
+		</div>
+
+      </article>
+    {% endfor %}
   </section>
 
 </div>
