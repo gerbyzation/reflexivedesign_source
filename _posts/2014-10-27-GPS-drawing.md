@@ -23,6 +23,6 @@ A little while later we walked the route and you can see the result on the pictu
 
 If you're interested (and as proof that we did do the walk :) ), you can find the original GPS data here: [GPS data (XML)][coordinates].
 
-[map]: /assets/images/DAT203_gps_walk.png
+[map]: /assets/images/DAT203_gps_walk.jpg
 [plan]: /assets/images/DAT203_gps_plan.jpg
 [coordinates]: /assets/other/shoppingbag.xml
