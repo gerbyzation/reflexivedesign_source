@@ -16,4 +16,4 @@ We've started for a few weeks now and I really enjoy it. We're already doing som
 
 Cheers!
 
-[DAT]: http://digitalartandtechnology.co.uk/ (Digital Art &amp; Technology)
+[DAT]: http://digitalartandtechnology.co.uk/ "Digital Art &amp; Technology"

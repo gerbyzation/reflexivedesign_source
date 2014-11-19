@@ -13,6 +13,118 @@ As noted by the worksheet the main practise to do psychogeography is *'derive'*:
 
 ![The route drawn on the map] [map]
 
-Because I just moved to Plymouth it was a bit difficult to follow the assignment strictly. So instead of doing an 'imaginary walk', I have done the real walk together with Marcin. 
+Because I just moved to Plymouth it was a bit difficult to follow the assignment strictly and do an imaginary walk and divede the map up in area's that have different feelings. So we skipped that one and went straight to the real walk!
 
-[map]: ../assets/images/DAT203_psychogeo_map.jpg
+Marcin and I did the walk according to the route we drew on the map, here you can find some pictures and our findings noted in keypoints:
+
+**Start**
+
+1. Crossing Royal parade & Armada way / House of Fraser
+- Open space gives a sense of freedom
+- People are busy with their own things (i.e. buying and selling goods)
+- gives a sense of capitalism
+- building made of massive concrete blocks make you feel small and unwelcome
+- feels hurried and bussy
+![Photo 01][photo01]
+![Photo 02][photo02]
+
+2. Crossing Armada way & Cornwall Str.
+- Trees and greenery gives more social area feeling
+- even in the middle of the shopping district with loads of people, feels like a different place
+- gives rest and more pieace, friendly
+- escape from the hurry (rush)
+- feels like an oasis
+
+3. Motorway
+- in between places
+- people don't pay attention, just want to go somewhere
+- place of transition (transition of spaces)
+- don't want to stay there
+- people are not really 'in a place'
+![Photo 03][photo03]
+![Photo 04][photo04]
+
+4. Oxford place
+- residential are under construction, makes you feel unsafe (something may fall on you off the building)
+- cautions
+- people come here to get rest after day of work
+- not much decoration, greenery is rare
+- boring fronts
+- poles with phonelines, association with slumms
+![Photo 05][photo05]
+![Photo 06][photo06]
+
+5. Victoria park
+- welcoming place
+- sense of freedom
+- quietness, escape from the city
+- place for leisure
+- place where you can relax, do nothing, think
+![Photo 07][photo07]
+
+6. Clarence court/Abbey thingy
+- functional but boring buildings
+- inconsistent with different styles of buildings
+- untidy
+![Photo 08][photo08]
+![Photo 09][photo09]
+
+7. Adelaide str.
+- looks like it used to be centre of a small town
+- quiet and peacefull with wide open alleyways
+- unique
+![Photo 10][photo10]
+
+8. Union str.
+- more industrial
+- bussy, occupied by people and cars
+- feels like we're back in the city
+- glory days are gon for part in direction of city centre
+- contrast between investment area and poverty/abandoned
+![Photo 11][photo11]
+![Photo 12][photo12]
+
+9. Citroen dealer
+- much more cozy, more trees and greenery
+- varying buildings
+- looked after, clean
+![Photo 13][photo13]
+![Photo 14][photo14]
+
+10. End of Hillbay Rd / roundabout
+- open spaces
+- commercial
+- neutral feeling
+![Photo 15][photo15]
+![Photo 16][photo16]
+
+11. Millbay / West Hoe str.
+- peacefull
+- mixture of pretty/ugly, history and new (see photo)
+- cool trees
+![Photo 17][photo17]
+
+12. The cressent / Notte str.
+- We are back in bussy city centre
+- don't feel like you want to spend much time in here as it makes you tired
+![Photo 18][photo18]
+
+[map]: /assets/images/DAT203_psychogeo_map.JPG
+[photo01]: /assets/images/DAT203_psychogeo_01.JPG
+[photo02]: /assets/images/DAT203_psychogeo_02.JPG
+[photo03]: /assets/images/DAT203_psychogeo_03.JPG
+[photo04]: /assets/images/DAT203_psychogeo_04.JPG
+[photo05]: /assets/images/DAT203_psychogeo_05.JPG
+[photo06]: /assets/images/DAT203_psychogeo_06.JPG
+[photo07]: /assets/images/DAT203_psychogeo_07.JPG
+[photo08]: /assets/images/DAT203_psychogeo_08.JPG
+[photo09]: /assets/images/DAT203_psychogeo_09.JPG
+[photo10]: /assets/images/DAT203_psychogeo_10.JPG
+[photo11]: /assets/images/DAT203_psychogeo_11.JPG
+[photo12]: /assets/images/DAT203_psychogeo_12.JPG
+[photo13]: /assets/images/DAT203_psychogeo_13.JPG
+[photo14]: /assets/images/DAT203_psychogeo_14.JPG
+[photo15]: /assets/images/DAT203_psychogeo_15.JPG
+[photo16]: /assets/images/DAT203_psychogeo_16.JPG
+[photo17]: /assets/images/DAT203_psychogeo_17.JPG
+[photo18]: /assets/images/DAT203_psychogeo_18.JPG

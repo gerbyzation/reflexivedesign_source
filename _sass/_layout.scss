@@ -234,3 +234,10 @@
         }
     }
 }
+
+.blog-roll .post {
+    margin-top: $spacing-unit*3;
+    &:first-child {
+        margin-top: $spacing-unit;
+        } 
+}

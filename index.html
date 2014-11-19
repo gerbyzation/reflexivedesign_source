@@ -5,31 +5,33 @@ layout: default
 <div class="home">
 
   <!-- <h1 class="page-heading">Posts</h1> -->
-
-	<section class="post-list">
+	<section class="blog-roll">
     {% for post in site.posts %}
-      <article>
-        <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span>
+      <div class="post">
+		<header class="post-header">
+	        <h1 class="post-title">
+	          <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> -->{{ post.title }} <!-- </a> -->
+	        </h1>
 
-        <h2>
-          <!-- <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"> -->{{ post.title }}<!-- </a> -->
-        </h2>
-
-		<div class="post-content">
+	        <span class="post-meta">{{ post.date | date: "%-d %B %Y" }}</span>
+		</header>
+		<article class="post-content">
 			{{ post.content }}
-		</div>
+		</article>
 
-		<div class="tags">
+		<!-- <div class="tags">
 		
 			<p>Catagory: {{ post.categories }}</p>
 			{% if post.tags %}
 				<p>Tags: {{ post.tags }}</p>
 			{% endif %}
-		</div>
+		</div> -->
 
-      </article>
+      </div>
+
     {% endfor %}
     
+z
   </section>
 
 </div>
