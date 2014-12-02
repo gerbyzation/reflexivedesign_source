@@ -24,5 +24,5 @@ A little while later we walked the route and you can see the result on the pictu
 If you're interested (and as proof that we did do the walk :) ), you can find the original GPS data here: [GPS data (XML)][coordinates].
 
 [map]: /assets/images/DAT203_gps_walk.jpg
-[plan]: /assets/images/DAT203_gps_plan.jpg
+[plan]: /assets/images/DAT203_gps_plan.JPG
 [coordinates]: /assets/other/shoppingbag.xml
